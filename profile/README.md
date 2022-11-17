@@ -1,14 +1,23 @@
-## Hi there 👋
+# 欢迎访问 HyperAI 超神经 🙌🏻 
 
-<!--
+[TVM 中文](https://tvm.hyper.ai/) |
+[数据集](https://hyper.ai/datasets) |
+[百科](https://hyper.ai/wiki) |
+[资讯](https://hyper.ai/news)
 
-**Here are some ideas to get you started:**
+[HyperAI 超神经](https://hyper.ai/) 是一个数据科学搜索引擎，致力于成为中国数据科学领域未来的基础设施，为相关行业者提供价值。截至目前我们已经提供了：
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* 1200+ 超大型公开数据集的镜像下载节点
+* 300+ 人工智能相关词条
+* 200+ 专注于 AI 落地场景的文章资讯
+* 150+ Apache TVM 中文文档
 
-- [hyper.ai](https://hyper.ai/)
+未来，我们将陆续上线更多数据科学及机器学习编译器相关的资料及资源，服务更广大的开发者并为其提供更多价值！
+
+HyperAI 超神经社区遵循开源共建原则，欢迎更多的开发者加入其中并贡献力量！
+
+# 技术交流 💡
+
+扫码备注添加微信，加入社群与同行交流
+
+<img src="https://tva1.sinaimg.cn/large/008vxvgGly1h886i3ij5wj30qe100409.jpg" width = "250" height = "300" alt="图片名称" align=center />
