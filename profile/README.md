@@ -20,4 +20,4 @@ HyperAI 超神经社区遵循开源共建原则，欢迎更多的开发者加入
 
 扫码备注添加微信，加入社群与同行交流
 
-<img src="https://tva1.sinaimg.cn/large/008vxvgGly1h886i3ij5wj30qe100409.jpg" width = "250" height = "300" alt="图片名称" align=center />
+<img src="https://user-images.githubusercontent.com/96356/209057474-889aaae8-6ac5-476f-9532-70e6cc9714f6.jpg" width="250" height="300" alt="图片名称" />
